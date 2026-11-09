@@ -1,0 +1,4 @@
+.env
+.env.*
+!.env.example
+setup_hf_token.py
